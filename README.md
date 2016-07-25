@@ -10,3 +10,7 @@ There is a GitHub repository with a lot of basketball data [here](https://github
 The data comes in a zip file with extension 7z, which stands for [7zip](http://www.7-zip.org/). It looks like Scott was right about it being built for Windows, but it can also be used from the command line from Macs, apparently. Here is one such [link](http://7zx.updatestar.com/) (untried by me).
 
 I remember having difficulty figuring out what to run in the command line for the next step. Once it worked, though, a single command unzipped every file and stored it in the destination folder I specified. When I re-figure that out I will update this README.
+
+## Starter Link to Working with SportVU Data
+
+I found this [link](http://projects.rajivshah.com/sportvu/PBP_NBA_SportVu.html) on opening and working with SportVU data in R. 
