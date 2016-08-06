@@ -14,3 +14,6 @@ I remember having difficulty figuring out what to run in the command line for th
 ## Starter Link to Working with SportVU Data
 
 I found this [link](http://projects.rajivshah.com/sportvu/PBP_NBA_SportVu.html) on opening and working with SportVU data in R. 
+
+## Youtube Video to Regular Season Game (Jan. 15, 2016 - Rockets v. Cavaliers)
+I found this link to a full replay of a regular season game of the data we have available. This game should be used for exploring SportVU data because it will help us visually confirm what the coordinates are describing.  
