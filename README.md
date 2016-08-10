@@ -11,7 +11,7 @@ The data comes in a zip file with extension 7z, which stands for [7zip](http://w
 
 I remember having difficulty figuring out what to run in the command line for the next step. Once it worked, though, a single command unzipped every file and stored it in the destination folder I specified. When I re-figure that out I will update this README.
 
-You can use this application to easily unzip 7Z files via the App Store [here](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12). I did this and it worked very smoothly, super simple. 
+[UPDATE 8.10.16] Assuming we are all running on Macs, [this application](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) via the iTunes store works really well. It's simple to use and you don't have to worry about using the command line. Verified on opening the CLE-HOU game data. This should be used.  
 
 ## Starter Link to Working with SportVU Data
 
