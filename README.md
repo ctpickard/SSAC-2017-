@@ -18,4 +18,4 @@ You can use this application to easily unzip 7Z files via the App Store [here](h
 I found this [link](http://projects.rajivshah.com/sportvu/PBP_NBA_SportVu.html) on opening and working with SportVU data in R. 
 
 ## Youtube Video to Regular Season Game (Jan. 15, 2016 - Rockets v. Cavaliers)
-I found this [link](https://www.youtube.com/channel/UCJEw6ECIQN_yjmOK2aPc1xQ) to a full replay of a regular season game of the data we have available. This game should be used for exploring SportVU data because it will help us visually confirm what the coordinates are describing.  
+I found this [link](https://www.youtube.com/channel/UCJEw6ECIQN_yjmOK2aPc1xQ) to a full replay of a regular season game of the data we have available. This game should be used for exploring SportVU data because it will help us visually confirm what the coordinates are describing. [UPDATE] Only the 3rd and 4th quarter footage is available, but should be good enough. 
