@@ -122,27 +122,18 @@ getShot_Zone = function(x){
     } else{
       
       # 3A) BELOW THE FREE-THROW LINE.
-      if(y_loc < 15.0){
+      if(y_loc >= 15.0){
+        return('H')
+        
+      } else{
         
         # 3A.1) IN THE PAINT, 4 FOOT RADIUS OF HOOP.
         if(sqrt((x_loc - 25)^2 + (y_loc - 4)^2) <= 4){
           return('K')
           
-        # 3A.2) EVERYTHING ELSE.
+          # 3A.2) EVERYTHING ELSE.
         } else{
           return('L')
-        }
-        
-      # 3B) ABOVE FREE-THROW LINE.   
-      } else{
-        
-        # 3B.1) INSIDE FREE-THROW ARC.
-        if(sqrt((x_loc - 25)^2 + (y_loc - 19)^2) <= 6){
-          return('L')
-        
-        # 3B.2) OUTSIDE OF FREE-THROW ARC
-        } else{
-          return('H')
         }
       }
     }
