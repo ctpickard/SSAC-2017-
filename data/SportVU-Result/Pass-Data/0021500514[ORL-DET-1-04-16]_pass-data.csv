@@ -1,0 +1,153 @@
+"","passer_Id","time_pass","shooter","time_receive","time_shot","quarter","shot_result","assist_status","time_to_shoot","dribbles","shot_distance"
+"1","Reggie Jackson",710.5,"Marcus Morris",709.8,705.3,1,"MISS","NO",4.5,3,17
+"2","Kentavious Caldwell-Pope",696.5,"Andre Drummond",693.6,692.5,1,"MISS","NO",1.10000000000002,0,4
+"3","Victor Oladipo",674.7,"Nikola Vucevic",674,670.4,1,"MAKE","YES",3.60000000000002,1,7
+"4","Kentavious Caldwell-Pope",648.2,"Ersan Ilyasova",646.6,645.9,1,"MAKE","YES",0.700000000000045,0,9
+"5","Kentavious Caldwell-Pope",618.6,"Reggie Jackson",617.2,614.6,1,"MAKE","NO",2.60000000000002,1,13
+"6","Tobias Harris",601.6,"Nikola Vucevic",600.9,595.9,1,"MAKE","NO",5,0,6
+"7","Reggie Jackson",583.2,"Ersan Ilyasova",582.7,582.1,1,"MISS","NO",0.600000000000023,0,25
+"8","Ersan Ilyasova",554.8,"Kentavious Caldwell-Pope",553.4,552.6,1,"MAKE","YES",0.799999999999955,0,26
+"9","Evan Fournier",534.4,"Nikola Vucevic",532.4,531.3,1,"MAKE","YES",1.10000000000002,0,17
+"10","Reggie Jackson",516.2,"Kentavious Caldwell-Pope",515.3,512.4,1,"MAKE","NO",2.89999999999998,1,25
+"11","Tobias Harris",502.3,"Evan Fournier",501,500.5,1,"MISS","NO",0.5,0,25
+"12","Evan Fournier",490.4,"Nikola Vucevic",486.8,486.3,1,"MISS","NO",0.5,0,0
+"13","Victor Oladipo",466.7,"Tobias Harris",465.9,464,1,"MISS","NO",1.89999999999998,1,2
+"14","Reggie Jackson",459.9,"Andre Drummond",459.1,456.5,1,"MAKE","YES",2.60000000000002,0,0
+"15","Ersan Ilyasova",428.9,"Reggie Jackson",427.7,423.1,1,"MAKE","NO",4.59999999999997,0,12
+"16","Victor Oladipo",405.1,"Channing Frye",404.4,404,1,"MISS","NO",0.399999999999977,0,26
+"17","Marcus Morris",392.6,"Ersan Ilyasova",391.6,391,1,"MISS","NO",0.600000000000023,0,25
+"18","Evan Fournier",365.5,"Tobias Harris",363.8,363.3,1,"MISS","NO",0.5,0,8
+"19","Reggie Jackson",355.6,"Andre Drummond",354.7,354.7,1,"MAKE","YES",0,0,6
+"20","Shabazz Napier",333,"Nikola Vucevic",332.3,331.9,1,"MISS","NO",0.400000000000034,0,17
+"21","Reggie Jackson",322.3,"Andre Drummond",321.9,321.8,1,"MAKE","YES",0.0999999999999659,0,0
+"22","Shabazz Napier",307.3,"Victor Oladipo",306.6,305.9,1,"MISS","NO",0.700000000000045,0,20
+"23","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"24","Shabazz Napier",244.9,"Andrew Nicholson",242.9,242.7,1,"MAKE","YES",0.200000000000017,0,26
+"25","Ersan Ilyasova",223.3,"Reggie Jackson",222.2,221.7,1,"MISS","NO",0.5,0,27
+"26","Nikola Vucevic",208.8,"Andrew Nicholson",207.7,202.4,1,"MAKE","NO",5.29999999999998,2,7
+"27","Reggie Jackson",189.3,"Andre Drummond",188.7,188.5,1,"MAKE","YES",0.199999999999989,0,0
+"28","Nikola Vucevic",166.8,"Shabazz Napier",166.1,165.4,1,"MAKE","YES",0.699999999999989,0,26
+"29","Reggie Jackson",143.7,"Stanley Johnson",142.9,142.5,1,"MAKE","YES",0.400000000000006,0,25
+"30","Shabazz Napier",125.6,"Victor Oladipo",123.1,119.9,1,"MAKE","NO",3.19999999999999,1,0
+"31","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"32","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"33","Stanley Johnson",29.9,"Ersan Ilyasova",29.2,27.7,1,"MAKE","YES",1.5,0,26
+"34","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"35","Brandon Jennings",678,"Stanley Johnson",677.1,676.8,2,"MISS","NO",0.300000000000068,0,26
+"36","Mario Hezonja",664.1,"Shabazz Napier",663.6,663,2,"MISS","NO",0.600000000000023,0,26
+"37","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"38","Shabazz Napier",614.9,"Jason Smith",614.5,613.8,2,"MISS","NO",0.700000000000045,0,1
+"39","Brandon Jennings",606.4,"Stanley Johnson",605.7,605.1,2,"MAKE","YES",0.600000000000023,0,22
+"40","Shabazz Napier",587.7,"Mario Hezonja",586.6,581.4,2,"MISS","NO",5.20000000000005,2,0
+"41","Aron Baynes",573.5,"Anthony Tolliver",572.7,572.1,2,"MAKE","YES",0.600000000000023,0,23
+"42","Shabazz Napier",549.4,"Jason Smith",548.6,548.4,2,"MISS","NO",0.200000000000045,0,27
+"43","Kentavious Caldwell-Pope",532.3,"Brandon Jennings",531.8,531.7,2,"MAKE","YES",0.0999999999999091,0,1
+"44","Evan Fournier",511.2,"Andrew Nicholson",510.5,508,2,"MISS","NO",2.5,1,1
+"45","Victor Oladipo",492,"Andrew Nicholson",491.3,490.7,2,"MISS","NO",0.600000000000023,0,27
+"46","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"47","Brandon Jennings",467.6,"Stanley Johnson",466.6,463.1,2,"MISS","NO",3.5,1,0
+"48","Brandon Jennings",450.7,"Kentavious Caldwell-Pope",449.4,449.4,2,"MAKE","YES",0,0,0
+"49","Victor Oladipo",427.9,"Jason Smith",426.6,426.5,2,"MAKE","YES",0.100000000000023,0,20
+"50","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"51","Victor Oladipo",398.5,"Evan Fournier",397.1,392.3,2,"MISS","NO",4.80000000000001,1,13
+"52","Anthony Tolliver",378.4,"Aron Baynes",376.9,375.3,2,"MAKE","YES",1.59999999999997,1,5
+"53","Victor Oladipo",361,"Jason Smith",360.4,359.4,2,"MAKE","YES",1,1,0
+"54","Reggie Jackson",351.3,"Kentavious Caldwell-Pope",349.9,347.1,2,"MISS","NO",2.79999999999995,0,17
+"55","Evan Fournier",333.8,"Jason Smith",333,332.9,2,"MAKE","YES",0.100000000000023,0,17
+"56","Marcus Morris",315.5,"Anthony Tolliver",314.9,312.3,2,"MISS","NO",2.59999999999997,0,0
+"57","Aaron Gordon",310.5,"Victor Oladipo",310.4,305.5,2,"MAKE","NO",4.89999999999998,2,0
+"58","Kentavious Caldwell-Pope",285.4,"Reggie Jackson",284.4,280.5,2,"MISS","NO",3.89999999999998,2,6
+"59","Reggie Jackson",280.4,"Andre Drummond",278.6,278.5,2,"MISS","NO",0.100000000000023,0,1
+"60","Evan Fournier",265.3,"Jason Smith",264.6,263.6,2,"MISS","NO",1,0,20
+"61","Tobias Harris",239.5,"Evan Fournier",239,238.6,2,"MISS","NO",0.400000000000006,0,27
+"62","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"63","Nikola Vucevic",214.2,"Tobias Harris",213,210.4,2,"MAKE","YES",2.59999999999999,0,16
+"64","Andre Drummond",190,"Marcus Morris",188.6,185.2,2,"MAKE","NO",3.40000000000001,1,5
+"65","Victor Oladipo",176.5,"Nikola Vucevic",175.8,175.4,2,"MISS","NO",0.400000000000006,0,18
+"66","Kentavious Caldwell-Pope",170.3,"Andre Drummond",167.4,166.4,2,"MAKE","YES",1,0,0
+"67","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"68","Ersan Ilyasova",129.6,"Reggie Jackson",129.1,126.8,2,"MISS","NO",2.3,2,27
+"69","Victor Oladipo",105.7,"Nikola Vucevic",104.9,104.6,2,"MISS","NO",0.300000000000011,0,17
+"70","Stanley Johnson",91.4,"Andre Drummond",88.3,86.7,2,"MISS","NO",1.59999999999999,1,0
+"71","Aaron Gordon",81.4,"Tobias Harris",80.4,80.4,2,"MAKE","YES",0,0,0
+"72","Stanley Johnson",3.5,"Ersan Ilyasova",2.8,2.3,2,"MISS","NO",0.5,0,14
+"73","Evan Fournier",709.3,"Nikola Vucevic",708.3,704.6,3,"MAKE","NO",3.69999999999993,0,6
+"74","Ersan Ilyasova",682.1,"Andre Drummond",680.4,677.7,3,"MISS","NO",2.69999999999993,0,17
+"75","Victor Oladipo",671.7,"Nikola Vucevic",669.5,669.1,3,"MISS","NO",0.399999999999977,0,8
+"76","Nikola Vucevic",665.8,"Tobias Harris",665,664.4,3,"MAKE","YES",0.600000000000023,0,26
+"77","Ersan Ilyasova",641.7,"Kentavious Caldwell-Pope",640.2,639.7,3,"MISS","NO",0.5,0,25
+"78","Tobias Harris",627.5,"Nikola Vucevic",627.2,624.4,3,"MAKE","YES",2.80000000000007,0,6
+"79","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"80","Evan Fournier",592.5,"Tobias Harris",589.9,588.7,3,"MISS","NO",1.19999999999993,0,26
+"81","Reggie Jackson",579.7,"Andre Drummond",579,577.5,3,"MISS","NO",1.5,0,7
+"82","Reggie Jackson",579.7,"Andre Drummond",579,577.5,3,"MISS","NO",1.5,0,5
+"83","Victor Oladipo",562.7,"Channing Frye",561.5,560.4,3,"MAKE","YES",1.10000000000002,0,16
+"84","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"85","Victor Oladipo",530.4,"Nikola Vucevic",529.5,529.3,3,"MAKE","YES",0.200000000000045,0,17
+"86","Reggie Jackson",503.8,"Ersan Ilyasova",502.3,501.9,3,"MISS","NO",0.400000000000034,0,26
+"87","Victor Oladipo",469.6,"Tobias Harris",468.6,467.8,3,"MAKE","NO",0.800000000000011,0,0
+"88","Reggie Jackson",445.8,"Kentavious Caldwell-Pope",444.6,442.8,3,"MISS","NO",1.80000000000001,0,7
+"89","Ersan Ilyasova",440.3,"Marcus Morris",438.8,437.7,3,"MAKE","NO",1.10000000000002,0,14
+"90","Tobias Harris",418.6,"Victor Oladipo",417.8,417.4,3,"MAKE","YES",0.400000000000034,0,26
+"91","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"92","Evan Fournier",370.9,"Nikola Vucevic",370.3,369.9,3,"MISS","NO",0.400000000000034,0,0
+"93","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"94","Reggie Jackson",337.9,"Kentavious Caldwell-Pope",336.9,336.4,3,"MAKE","YES",0.5,0,26
+"95","Evan Fournier",312.6,"Victor Oladipo",311.2,309.6,3,"MISS","NO",1.59999999999997,0,19
+"96","Reggie Jackson",293.4,"Andre Drummond",291.7,288.4,3,"MAKE","YES",3.30000000000001,3,7
+"97","Victor Oladipo",262.8,"Channing Frye",261.8,261.7,3,"MISS","NO",0.100000000000023,0,23
+"98","Nikola Vucevic",259.6,"Evan Fournier",258.3,257.8,3,"MISS","NO",0.5,0,26
+"99","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"100","Tobias Harris",221.1,"Nikola Vucevic",220.3,215.2,3,"MAKE","NO",5.10000000000002,1,4
+"101","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"102","Brandon Jennings",165.5,"Ersan Ilyasova",164.7,164.1,3,"MAKE","YES",0.599999999999994,0,27
+"103","Brandon Jennings",138.7,"Stanley Johnson",137.7,134.1,3,"MISS","NO",3.59999999999999,0,23
+"104","Stanley Johnson",134.1,"Ersan Ilyasova",131.8,129.8,3,"MAKE","NO",2,1,14
+"105","Shabazz Napier",117,"Victor Oladipo",116.3,114.1,3,"MAKE","NO",2.2,0,15
+"106","Brandon Jennings",97.7,"Marcus Morris",96.9,92,3,"MAKE","NO",4.90000000000001,2,17
+"107","Victor Oladipo",73.4,"Shabazz Napier",72.8,72.2,3,"MISS","NO",0.599999999999994,0,24
+"108","Stanley Johnson",58.5,"Aron Baynes",57.8,56.2,3,"MAKE","YES",1.59999999999999,0,1
+"109","Shabazz Napier",44.2,"Andrew Nicholson",43.2,43,3,"MAKE","YES",0.200000000000003,0,25
+"110","Brandon Jennings",33.9,"Ersan Ilyasova",33.2,30.7,3,"MISS","NO",2.5,1,7
+"111","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"112","Stanley Johnson",6.6,"Brandon Jennings",5.3,1.3,3,"MAKE","NO",4,3,27
+"113","Shabazz Napier",664.7,"Andrew Nicholson",663.4,658.3,4,"MAKE","NO",5.10000000000002,1,5
+"114","Shabazz Napier",631.3,"Jason Smith",630.5,630.4,4,"MISS","NO",0.100000000000023,0,19
+"115","Brandon Jennings",624.6,"Stanley Johnson",623.7,623,4,"MISS","NO",0.700000000000045,0,24
+"116","Shabazz Napier",609.8,"Jason Smith",608.8,608.6,4,"MISS","NO",0.199999999999932,0,20
+"117","Stanley Johnson",604.6,"Brandon Jennings",603.6,600.9,4,"MISS","NO",2.70000000000005,1,1
+"118","Stanley Johnson",604.6,"Aron Baynes",603.6,599.6,4,"MAKE","NO",4,1,0
+"119","Shabazz Napier",583.8,"Jason Smith",583.2,581.2,4,"MISS","NO",2,0,0
+"120","Brandon Jennings",552,"Anthony Tolliver",550.9,550.7,4,"MISS","NO",0.199999999999932,0,26
+"121","Aron Baynes",545.4,"Anthony Tolliver",544.8,544,4,"MAKE","YES",0.799999999999955,0,0
+"122","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"123","Aron Baynes",517.6,"Brandon Jennings",517.1,513.4,4,"MISS","NO",3.70000000000005,1,1
+"124","Brandon Jennings",482.2,"Kentavious Caldwell-Pope",481.6,480.8,4,"MAKE","YES",0.800000000000011,0,1
+"125","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"126","Brandon Jennings",461,"Kentavious Caldwell-Pope",460.3,459.7,4,"MAKE","YES",0.600000000000023,0,26
+"127","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"128","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"129","Aaron Gordon",416.5,"Andrew Nicholson",415.2,410.1,4,"MISS","NO",5.09999999999997,0,7
+"130","Stanley Johnson",407.8,"Brandon Jennings",406.4,404,4,"MAKE","NO",2.39999999999998,3,26
+"131","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"132","Aron Baynes",383.1,"Brandon Jennings",382.3,379.6,4,"MISS","NO",2.69999999999999,0,6
+"133","Dewayne Dedmon",376.6,"Shabazz Napier",376,371.7,4,"MISS","NO",4.30000000000001,0,15
+"134","Aron Baynes",358.5,"Kentavious Caldwell-Pope",356.2,356,4,"MISS","NO",0.199999999999989,0,26
+"135","Kentavious Caldwell-Pope",355.9,"Stanley Johnson",353.5,353,4,"MISS","NO",0.5,0,0
+"136","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"137","Anthony Tolliver",313.1,"Brandon Jennings",312.5,312,4,"MAKE","YES",0.5,0,23
+"138","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"139","Anthony Tolliver",268.5,"Brandon Jennings",267.7,266.9,4,"MISS","NO",0.800000000000011,0,26
+"140","Aron Baynes",263.4,"Kentavious Caldwell-Pope",262.9,259.7,4,"MISS","NO",3.19999999999999,0,24
+"141","Mario Hezonja",247.8,"Aaron Gordon",246.4,245.7,4,"MISS","NO",0.700000000000017,0,26
+"142","Andrew Nicholson",215.9,"Shabazz Napier",215.4,214.6,4,"MISS","NO",0.800000000000011,0,27
+"143","Dewayne Dedmon",212.6,"Mario Hezonja",212.1,208,4,"MISS","NO",4.09999999999999,0,15
+"144","Joel Anthony",196.7,"Reggie Bullock",194.9,194.8,4,"MISS","NO",0.0999999999999943,0,19
+"145","Anthony Tolliver",125.6,"Darrun Hilliard",124.9,121.1,4,"MISS","NO",3.80000000000001,2,17
+"146","Reggie Bullock",119.5,"Anthony Tolliver",117.7,117.6,4,"MAKE","YES",0.100000000000009,0,19
+"147","No Pass",0,"0",0,0,0,"0","0",0,0,0
+"148","Steve Blake",96.7,"Anthony Tolliver",96.1,95.5,4,"MAKE","YES",0.599999999999994,0,27
+"149","Andrew Nicholson",82.4,"Shabazz Napier",81.8,81.1,4,"MAKE","YES",0.700000000000003,0,24
+"150","Anthony Tolliver",64.9,"Steve Blake",64.3,63.8,4,"MISS","NO",0.5,0,23
+"151","Mario Hezonja",49.7,"Shabazz Napier",49,48.3,4,"MISS","NO",0.700000000000003,0,25
+"152","Mario Hezonja",14.2,"Andrew Nicholson",13.3,8.2,4,"MAKE","NO",5.1,0,0
